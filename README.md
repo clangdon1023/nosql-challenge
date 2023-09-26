@@ -16,4 +16,4 @@ Three Part Challenge:
    - query multiple data points and sort the results
    - convert queries into Pandas DataFrames
    - exploratory results can be found here: https://github.com/clangdon1023/nosql-challenge/blob/main/NoSQL_analysis_starter-checkpoint.ipynb
-   - 
+  
